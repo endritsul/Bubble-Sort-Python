@@ -1,5 +1,5 @@
 # Bubble Sort implementation
-# write a function with an imput parameter which in this case is our array
+# write a function with an input parameter which in this case is our array
 def bubbleSort(arr): 
     array_length = len(arr) 
   
